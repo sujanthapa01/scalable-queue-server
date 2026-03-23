@@ -2,3 +2,4 @@
 ## teach
 ### nestjs
 ### bullmq
+### redis
